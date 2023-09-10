@@ -1,6 +1,15 @@
 This is a Minecraft datapack for the Fabric versions of [End Remastered](https://modrinth.com/mod/endrem) and [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric). It makes the two mods compatible by making the End Remastered eyes spawn in all their respective repurposed structures.
 
+<h1 align="center">
+  <a href="#"><img src="https://raw.githubusercontent.com/morceaudebois/repurposed_structures_endrem/main/datapack.png" width="70%" alt=""></a>
+</h1>
+
 ## How to install
+You can install the datapack by dragging it (uncompressed) in `yourminecraftfolder/saves/yourworld/datapacks`. It differs from mods and ressource packs in the way that it needs to be installed in each world instead of the whole Minecraft instance.
+
+To know if it's installed properly, you can enter the command `/datapack list` and you'll see your whole list of datapacks installed (make sure to enable cheats first or the command won't work).
+
+You can learn more about datapacks [here](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack).
 
 ## Random stuff to know
 
