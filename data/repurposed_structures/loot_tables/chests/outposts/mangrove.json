@@ -2,19 +2,33 @@
   "type": "minecraft:chest",
   "random_sequence": "repurposed_structures:chests",
   "pools": [
-    {
-      "rolls": {
-        "min": 0.0,
-        "max": 1.0,
-        "type": "minecraft:uniform"
-      },
-      "entries": [
+            {
+            "rolls": {
+                "min": 0.0,
+                "max": 1.0,
+                "type": "minecraft:uniform"
+            },
+            "entries": [
+                {
+                    "name": "endrem:corrupted_eye",
+                    "type": "minecraft:item",
+                    "weight": 3.0
+                }
+            ]
+        },
         {
-          "name": "minecraft:crossbow",
-          "type": "minecraft:item"
-        }
-      ]
-    },
+            "rolls": {
+                "min": 0.0,
+                "max": 1.0,
+                "type": "minecraft:uniform"
+            },
+            "entries": [
+                {
+                    "name": "minecraft:crossbow",
+                    "type": "minecraft:item"
+                }
+            ]
+        },
     {
       "rolls": {
         "min": 2.0,
